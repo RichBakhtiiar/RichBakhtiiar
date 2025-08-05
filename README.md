@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RichBakhtiiar
-- 👀 I'm a day-to-day Unreal Senior Technical Artist for Virtual Production. Custom production tools in C++ are also my piece of cake.
+- 👀 I'm a day-to-day Unreal Senior Technical Artist, working to create unique and realistic environments for Virtual Production.
 - 🌱 Deeply, madly, technically in love with UE profiling.
 - 📫 Reach me on LinkedIn via https://www.linkedin.com/in/bakhtiiar-akhmednov-2b34b3200/
