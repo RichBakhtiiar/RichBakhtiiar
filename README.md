@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RichBakhtiiar
-- 👀 I´m an Unreal Engine Developer with a high interest in Virtual Production, Animations and Vector Math.
+- 👀 I´m an Unreal Engine Senior Technical Artist with a high interest in Virtual Production, Animations and Vector Math.
 - 🌱 I’m currently learning Unreal MultiThreading features.
 - 📫 Reach me on LinkedIn via https://www.linkedin.com/in/bakhtiiar-akhmednov-2b34b3200/
